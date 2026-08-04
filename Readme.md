@@ -2,7 +2,8 @@
 
 # Hi 👋, I'm Rohan
 
-### 🎓 Sophomore @ ABV-IIITM Gwalior
+### 🎓 Third-Year Integrated B.Tech (IT) + MBA Student
+### @ ABV-IIITM Gwalior
 ### 💻 Mern Stack Developer • 📊 Data Analyst • 🤖 AI/ML Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Data+Analyst;Open+Source+Learner" />
