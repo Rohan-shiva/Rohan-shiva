@@ -130,7 +130,7 @@ Vector Databases
 
 ## 🤖 PrepForge AI
 
-An AI-powered **interview and placement preparation platform** designed to help students prepare for technical and behavioral interviews using intelligent AI-driven workflows.
+An AI-powered **interview and placement preparation platform** designed to help students prepare for technical and behavioral interviews using personalized AI-driven workflows.
 
 **Tech Stack:**
 
@@ -138,48 +138,59 @@ An AI-powered **interview and placement preparation platform** designed to help 
 * Node.js
 * Express.js
 * MongoDB
-* LLMs
-* AI Agents
-* RAG
-* Qdrant
+* Groq API
+* GPT-OSS-120B
 * JWT Authentication
-* REST APIs
+* Web Speech API
+* Puppeteer
 
 **Key Features:**
 
 * 🤖 AI-powered interview preparation
-* 🧠 LLM-based question generation and evaluation
-* 🔎 RAG-powered contextual responses
-* 🗄️ Qdrant-based semantic/vector search
-* 🔐 Authentication and protected APIs
-* 📊 Personalized preparation workflows
+* 📄 Resume and job description analysis
+* 🎯 Resume–job match score and skill-gap detection
+* 🗺️ Personalized preparation roadmaps
+* 🧠 AI-generated technical and behavioral questions
+* 🎙️ Voice-based mock interviews
+* 📊 AI-powered answer evaluation and scoring
+* 📈 Interview history and performance analytics
+* 📄 ATS-friendly resume generation
+* 🔐 Secure authentication and protected APIs
 
 ---
 
 ## 🏥 Aarogya Pravah AI
 
-An AI-powered healthcare information platform focused on providing intelligent, context-aware assistance using **LLMs, RAG, and AI agents**.
+An **AI-powered smart hospital queue and clinical decision-support system** designed to intelligently prioritize patients using AI-based triage, medical image screening, and real-time queue management.
 
 **Tech Stack:**
 
 * React.js
 * Node.js
+* Express.js
+* MongoDB
 * Python
-* LLMs
-* RAG
-* Qdrant
-* Embeddings
-* AI Agents
+* Groq LLaMA 3.3
+* PyTorch
+* Socket.IO
+* JWT Authentication
+* Cloudinary
 * REST APIs
 
 **Key Features:**
 
-* 🤖 AI-powered healthcare assistance
-* 🔎 Retrieval-Augmented Generation
-* 🧠 Context-aware LLM responses
-* 📚 Document-based knowledge retrieval
-* 🗄️ Vector search using Qdrant
-* ⚡ AI-driven backend workflows
+* 🏥 Patient check-in and digital token generation
+* 🎫 Real-time queue and waiting-time tracking
+* 🤖 AI-powered clinical triage using Groq LLaMA 3.3
+* 🩻 Medical image screening using PyTorch
+* 🧑‍⚕️ Human-in-the-loop staff verification
+* 🧠 Multi-factor dynamic patient priority engine
+* ⚡ Real-time queue updates using Socket.IO
+* 👨‍⚕️ Doctor and staff dashboards
+* 📋 Digital consultation and patient records
+* ☁️ Medical image storage using Cloudinary
+* 🔐 Role-based authentication and protected APIs
+
 
 ---
 
@@ -218,7 +229,7 @@ A scalable **REST API backend for a music streaming platform** with authenticati
 * JWT
 * bcrypt
 * REST APIs
-* Cloudinary
+* Imagekit
 
 **Key Features:**
 
