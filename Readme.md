@@ -6,9 +6,9 @@
 
 ### @ ABV-IIITM Gwalior
 
-### 💻 MERN Stack Developer • 📊 Data Analyst • 🤖 AI/ML & GenAI Enthusiast
+### 💻 MERN Stack Developer • 🤖 AI/GenAI Engineer • 📊 Data Analyst
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Data+Analyst;AI+Agent+Developer;RAG+%7C+LLMs+%7C+Qdrant;Open+Source+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;AI+Agent+Developer;RAG+%7C+LLMs+%7C+Qdrant;Data+Analyst;Backend+Developer;Open+Source+Learner" />
 
 </div>
 
@@ -17,12 +17,12 @@
 ## 👨‍💻 About Me
 
 * 🎓 Integrated **B.Tech (IT) + MBA** student at **ABV-IIITM Gwalior**
-* 💻 Passionate about **Full Stack Web Development (MERN)**
-* 🤖 Building applications with **AI Agents, LLMs, RAG pipelines, and Vector Databases**
-* 🧠 Interested in **Generative AI, Retrieval-Augmented Generation (RAG), and AI-powered systems**
+* 💻 Passionate about **Full Stack Web Development (MERN)** and **Backend Engineering**
+* 🤖 Building AI-powered applications using **LLMs, AI Agents, RAG, Embeddings, and Vector Databases**
 * 🔎 Working with **Qdrant** for vector search and semantic retrieval
+* 🧠 Interested in **Generative AI, Agentic AI, RAG systems, and LLM Engineering**
 * 📊 Interested in **Data Analytics**, **SQL**, **Power BI**, and **Python**
-* 🌱 Currently learning **AI/ML, Backend Development, Open Source, and LLM Engineering**
+* 🌱 Currently learning **AI/ML, Backend Development, System Design, and Open Source**
 * 💡 Strong foundation in **Data Structures & Algorithms**
 * ⭐ Earned **5★ SQL Badge on HackerRank**
 
@@ -64,6 +64,7 @@
 <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00A67E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Qdrant-Vector%20Database-DC244C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-6C63FF?style=for-the-badge" />
 
 </p>
 
@@ -106,7 +107,7 @@ LLMs
 
 RAG
  ├── Document Ingestion
- ├── Chunking
+ ├── Document Chunking
  ├── Embeddings
  ├── Vector Search
  ├── Semantic Retrieval
@@ -125,42 +126,115 @@ Vector Databases
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📁 File Share by QR Code
+## 🤖 PrepForge AI
 
-A full-stack application for securely sharing files through QR codes.
+An AI-powered **interview and placement preparation platform** designed to help students prepare for technical and behavioral interviews using intelligent AI-driven workflows.
 
 **Tech Stack:**
 
 * React.js
 * Node.js
+* Express.js
 * MongoDB
-* Cloudinary
-* QR Code Sharing
+* LLMs
+* AI Agents
+* RAG
+* Qdrant
+* JWT Authentication
+* REST APIs
+
+**Key Features:**
+
+* 🤖 AI-powered interview preparation
+* 🧠 LLM-based question generation and evaluation
+* 🔎 RAG-powered contextual responses
+* 🗄️ Qdrant-based semantic/vector search
+* 🔐 Authentication and protected APIs
+* 📊 Personalized preparation workflows
 
 ---
 
-### 🤖 AI-Powered RAG / Agent Platform
+## 🏥 Aarogya Pravah AI
 
-An AI-powered system combining **LLMs, RAG, vector search, and AI agents** to retrieve relevant information and perform intelligent tasks.
+An AI-powered healthcare information platform focused on providing intelligent, context-aware assistance using **LLMs, RAG, and AI agents**.
 
 **Tech Stack:**
 
+* React.js
+* Node.js
 * Python
 * LLMs
 * RAG
 * Qdrant
 * Embeddings
-* Vector Search
 * AI Agents
-* Backend APIs
+* REST APIs
+
+**Key Features:**
+
+* 🤖 AI-powered healthcare assistance
+* 🔎 Retrieval-Augmented Generation
+* 🧠 Context-aware LLM responses
+* 📚 Document-based knowledge retrieval
+* 🗄️ Vector search using Qdrant
+* ⚡ AI-driven backend workflows
 
 ---
 
-### 📊 Retail Demand & Inventory Analytics
+## 📁 File Share by QR Code
 
-Data analytics project analyzing **1.3M+ records** to identify demand patterns and inventory insights.
+A full-stack file-sharing application that allows users to securely share files through **QR codes**.
+
+**Tech Stack:**
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Cloudinary
+* QR Code Generation
+
+**Key Features:**
+
+* 📤 File upload and management
+* 🔗 Shareable file links
+* 📱 QR code-based file sharing
+* ☁️ Cloudinary file storage
+* 🔐 Secure backend APIs
+
+---
+
+## 🎵 Music Platform Backend
+
+A scalable **REST API backend for a music streaming platform** with authentication, user management, music management, playlists, and secure API access.
+
+**Tech Stack:**
+
+* Node.js
+* Express.js
+* MongoDB
+* JWT
+* bcrypt
+* REST APIs
+* Cloudinary
+
+**Key Features:**
+
+* 🔐 User authentication and authorization
+* 🎵 Music upload and management
+* 📀 Album and playlist management
+* ❤️ User interactions and favorites
+* ☁️ Cloud-based media storage
+* 🔒 JWT-based protected routes
+* ⚡ RESTful backend architecture
+
+---
+
+## 📊 Retail Demand & Inventory Analytics
+
+A large-scale data analytics project analyzing **1.3M+ records** to identify demand patterns, inventory trends, and business insights.
 
 **Tech Stack:**
 
@@ -168,18 +242,17 @@ Data analytics project analyzing **1.3M+ records** to identify demand patterns a
 * Python
 * SQL
 * Excel
+* Pandas
+* NumPy
 
----
+**Key Features:**
 
-### 📱 Mobile Sales Dashboard
-
-Interactive business intelligence dashboard for analyzing mobile sales performance.
-
-**Tech Stack:**
-
-* Power BI
-* DAX
-* Power Query
+* 📈 Interactive Power BI dashboards
+* 📊 Demand and inventory analysis
+* 🧹 Large-scale data cleaning
+* 🔍 SQL-based data analysis
+* 📉 Business KPI analysis
+* 📦 Inventory trend visualization
 
 ---
 
