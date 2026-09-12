@@ -3,10 +3,12 @@
 # Hi 👋, I'm Rohan
 
 ### 🎓 Third-Year Integrated B.Tech (IT) + MBA Student
-### @ ABV-IIITM Gwalior
-### 💻 Mern Stack Developer • 📊 Data Analyst • 🤖 AI/ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Data+Analyst;Open+Source+Learner" />
+### @ ABV-IIITM Gwalior
+
+### 💻 MERN Stack Developer • 📊 Data Analyst • 🤖 AI/ML & GenAI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Data+Analyst;AI+Agent+Developer;RAG+%7C+LLMs+%7C+Qdrant;Open+Source+Learner" />
 
 </div>
 
@@ -14,28 +16,33 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Integrated **B.Tech (IT) + MBA** student at **ABV-IIITM Gwalior**
-- 💻 Passionate about **Full Stack Web Development (MERN)**
-- 📊 Interested in **Data Analytics**, **SQL**, **Power BI**, and **Python**
-- 🌱 Currently learning **Open Source**, **AI/ML** and **Backend Development**
-- 💡 Strong foundation in Data Structures & Algorithms
-- ⭐ Earned **5★ SQL Badge on HackerRank**
+* 🎓 Integrated **B.Tech (IT) + MBA** student at **ABV-IIITM Gwalior**
+* 💻 Passionate about **Full Stack Web Development (MERN)**
+* 🤖 Building applications with **AI Agents, LLMs, RAG pipelines, and Vector Databases**
+* 🧠 Interested in **Generative AI, Retrieval-Augmented Generation (RAG), and AI-powered systems**
+* 🔎 Working with **Qdrant** for vector search and semantic retrieval
+* 📊 Interested in **Data Analytics**, **SQL**, **Power BI**, and **Python**
+* 🌱 Currently learning **AI/ML, Backend Development, Open Source, and LLM Engineering**
+* 💡 Strong foundation in **Data Structures & Algorithms**
+* ⭐ Earned **5★ SQL Badge on HackerRank**
 
 ---
 
 ## 🏆 Achievements
 
-| Achievement | Details |
-|------------|---------|
-| 🎯 LeetCode | 300+ Problems Solved |
-| 💻 CodeChef | 100+ Problems Solved |
-| ⭐ HackerRank | 5★ SQL Badge |
-| 🎓 CGPA | **8.75** |
-| 🏫 Education | ABV-IIITM Gwalior |
+| Achievement  | Details              |
+| ------------ | -------------------- |
+| 🎯 LeetCode  | 300+ Problems Solved |
+| 💻 CodeChef  | 100+ Problems Solved |
+| ⭐ HackerRank | 5★ SQL Badge         |
+| 🎓 CGPA      | **8.75**             |
+| 🏫 Education | ABV-IIITM Gwalior    |
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 💻 Programming & Web Development
 
 <p align="center">
 
@@ -43,9 +50,28 @@
 
 </p>
 
+### 🤖 AI / ML / GenAI
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Qdrant-Vector%20Database-DC244C?style=for-the-badge" />
+
+</p>
+
+### 📊 Data Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -54,8 +80,11 @@
 
 </p>
 
+### ☁️ Tools & Services
+
 <p align="center">
 
+<img src="https://img.shields.io/badge/Qdrant-Vector%20Search-DC244C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 <img src="https://img.shields.io/badge/ImageKit-06B6D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -67,33 +96,90 @@
 
 ---
 
+## 🧠 AI & GenAI Skills
+
+```text
+LLMs
+ ├── Prompt Engineering
+ ├── Context Management
+ └── LLM-powered Applications
+
+RAG
+ ├── Document Ingestion
+ ├── Chunking
+ ├── Embeddings
+ ├── Vector Search
+ ├── Semantic Retrieval
+ └── Context-Augmented Generation
+
+AI Agents
+ ├── Tool Calling
+ ├── Agentic Workflows
+ ├── Multi-Step Reasoning
+ ├── Retrieval Tools
+ └── LLM-based Automation
+
+Vector Databases
+ └── Qdrant
+```
+
+---
+
 ## 🚀 Featured Projects
 
 ### 📁 File Share by QR Code
 
-- React.js
-- Node.js
-- MongoDB
-- Cloudinary
-- QR Code Sharing
+A full-stack application for securely sharing files through QR codes.
+
+**Tech Stack:**
+
+* React.js
+* Node.js
+* MongoDB
+* Cloudinary
+* QR Code Sharing
+
+---
+
+### 🤖 AI-Powered RAG / Agent Platform
+
+An AI-powered system combining **LLMs, RAG, vector search, and AI agents** to retrieve relevant information and perform intelligent tasks.
+
+**Tech Stack:**
+
+* Python
+* LLMs
+* RAG
+* Qdrant
+* Embeddings
+* Vector Search
+* AI Agents
+* Backend APIs
 
 ---
 
 ### 📊 Retail Demand & Inventory Analytics
 
-- Power BI
-- Python
-- SQL
-- Excel
-- 1.3M+ Records
+Data analytics project analyzing **1.3M+ records** to identify demand patterns and inventory insights.
+
+**Tech Stack:**
+
+* Power BI
+* Python
+* SQL
+* Excel
 
 ---
 
 ### 📱 Mobile Sales Dashboard
 
-- Power BI
-- DAX
-- Power Query
+Interactive business intelligence dashboard for analyzing mobile sales performance.
+
+**Tech Stack:**
+
+* Power BI
+* DAX
+* Power Query
 
 ---
 
